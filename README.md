@@ -17,15 +17,15 @@ Uma versão modificada, otimizada e com tema escuro do **NotPipe**, projetada es
 Aqui você pode ver o visual do menu de configurações modificado com o tema escuro e os créditos embutidos:
 
 <p align="center">
-  <img src="prints/print1.jpg" width="300" alt="Menu de Configurações Escuro">
+  <img src="Screenshot_2026-06-13-18-38-43-02_46113d9d255b51ca476dd70cc93bdcc9.jpg" width="300" alt="Menu de Configurações Escuro">
 </p>
 
 <p align="center">
-  <img src="prints/print2.jpg" width="300" alt="Menu de Configurações Escuro">
+  <img src="Screenshot_2026-06-13-18-39-09-32_46113d9d255b51ca476dd70cc93bdcc9.jpg" width="300" alt="Menus">
 </p>
 
 <p align="center">
-  <img src="prints/print3.jpg" width="300" alt="Menu de Configurações Escuro">
+  <img src="Screenshot_2026-06-13-18-52-59-02_46113d9d255b51ca476dd70cc93bdcc9.jpg" width="300" alt="print dos menu">
 </p>
 
 ---
