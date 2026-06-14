@@ -3,6 +3,10 @@
 Uma versão modificada, otimizada e com tema escuro do **NotPipe**, projetada especificamente para rodar com o máximo de desempenho em dispositivos antigos (como o icônico Galaxy Ace Duos) ou para quem busca economia extrema de memória.
 
 ---
+# 👀 views
+![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavizintech-ops%2FyesPipe-repo&label=VIEWS&countColor=%23795548)
+
+---
 
 ## 🚀 Principais Otimizações e Recursos
 * **Fundo Escuro Nativo:** Interface modificada em AXML para reduzir o consumo de bateria e melhorar o visual.
@@ -46,8 +50,12 @@ Sempre baixe o aplicativo direto da aba de lançamentos oficiais do GitHub para 
 
 ---
 
-## 👤 Créditos e Contato
-* **Base do Projeto:** NotPipe Original.
+## canais
+**tiktok:**
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davizindroidofc)
 
+## telegram
+**nosso telegram é:**
+[telegram](t.me/yespipe)
 ---
 <p align="center">Se curtiu o projeto, não esquece de deixar uma ⭐️ no repositório!</p>
