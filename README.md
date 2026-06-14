@@ -51,11 +51,9 @@ Sempre baixe o aplicativo direto da aba de lançamentos oficiais do GitHub para 
 ---
 
 ## canais
-**tiktok:**
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davizindroidofc)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yespipe) 
 
-## telegram
-**nosso telegram é:**
-[telegram](t.me/yespipe)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davizindroidofc)
+
 ---
 <p align="center">Se curtiu o projeto, não esquece de deixar uma ⭐️ no repositório!</p>
